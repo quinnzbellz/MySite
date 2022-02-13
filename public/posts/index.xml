@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Feb 2022 14:22:57 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://example.org/posts/welcome/</link>
+      <pubDate>Sun, 13 Feb 2022 14:22:57 -0500</pubDate>
+      
+      <guid>http://example.org/posts/welcome/</guid>
+      <description>Hi There! I&amp;rsquo;m Quinn, welcome to my blog. I&amp;rsquo;ve tried this before, and never really stuck with it, mainly because I was pushing just an exported version of my hugo site to github, not the full source. Anyways, I&amp;rsquo;m planning to write some cool stuff on here, so definitely be on the lookout!</description>
+    </item>
+    
+  </channel>
+</rss>
