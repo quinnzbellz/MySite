@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Quinnb</title>
+    <link>https://www.quinnb.xyz/posts/</link>
+    <description>Recent content in Posts on Quinnb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Feb 2022 14:22:57 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Feb 2022 14:40:05 -0500</lastBuildDate><atom:link href="https://www.quinnb.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Sony Discman D-E201</title>
+      <link>https://www.quinnb.xyz/posts/de201/</link>
+      <pubDate>Sun, 13 Feb 2022 14:40:05 -0500</pubDate>
+      
+      <guid>https://www.quinnb.xyz/posts/de201/</guid>
+      <description>This is the Discman D-E201 A while ago I was listening to what at the time was the latest episode the patreon only This Does Not Compute Podcast. The episode was on how CDs were making a return, and how now if you thought a discman might be something you want, it&amp;rsquo;s a good time to pick one up. I went on ebay just for fun to see what I could find, and ended up picking up a Discman D-E201 with ESP2 protection (stops the disc from skipping using a buffer).</description>
+    </item>
+    
     <item>
       <title>Welcome</title>
-      <link>http://example.org/posts/welcome/</link>
+      <link>https://www.quinnb.xyz/posts/welcome/</link>
       <pubDate>Sun, 13 Feb 2022 14:22:57 -0500</pubDate>
       
-      <guid>http://example.org/posts/welcome/</guid>
+      <guid>https://www.quinnb.xyz/posts/welcome/</guid>
       <description>Hi There! I&amp;rsquo;m Quinn, welcome to my blog. I&amp;rsquo;ve tried this before, and never really stuck with it, mainly because I was pushing just an exported version of my hugo site to github, not the full source. Anyways, I&amp;rsquo;m planning to write some cool stuff on here, so definitely be on the lookout!</description>
     </item>
     
