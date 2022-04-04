@@ -1,48 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.quinnb.xyz/posts/</loc>
     <lastmod>2022-03-20T15:12:47-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.quinnb.xyz/</loc>
     <lastmod>2022-03-20T15:12:47-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.quinnb.xyz/posts/soundwave/</loc>
     <lastmod>2022-03-20T15:12:47-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.quinnb.xyz/posts/linux-community/</loc>
     <lastmod>2022-03-03T19:12:22-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.quinnb.xyz/posts/a-good-knife/</loc>
     <lastmod>2022-02-14T15:21:22-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.quinnb.xyz/posts/de201/</loc>
     <lastmod>2022-02-13T14:40:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.quinnb.xyz/posts/welcome/</loc>
     <lastmod>2022-02-13T14:22:57-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.quinnb.xyz/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.quinnb.xyz/tags/</loc>
   </url>
-  
 </urlset>

@@ -1,0 +1,13 @@
+baseURL: 'https://www.quinnb.xyz'
+languageCode: en-us
+title: Quinnb
+theme: papermod
+
+params:
+    # defaultTheme: light
+    # defaultTheme: dark
+    defaultTheme: dark # to switch between dark or light according to browser theme
+
+    homeInfoParams:
+        Title: Hey There, I'm Quinn!
+        Content: I'm just a random kid on the internet. I'm learning C. Programming and Linux are some of my favourite things.
